@@ -1,4 +1,4 @@
-window.onload = () => {
+
   var canvas = document.getElementById("canvas"),
     context = canvas.getContext("2d"),
     drops = [],
@@ -61,4 +61,4 @@ window.onload = () => {
   }
 
   setInterval(draw, 75);
-};
+
