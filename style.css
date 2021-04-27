@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #00ffff;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+body {
+  display: inline-block;
+  transform: scale(1.4, 1);
+  -webkit-transform: scale(1.4, 1);
+  -moz-transform: scale(1.4, 1);
+  -ms-transform: scale(1.4, 1);
+  -o-transform: scale(1.4, 1);
+  overflow: hidden;
+}
