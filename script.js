@@ -25,7 +25,7 @@
   context.scale(-1, 1);
 
   //Hebrew @ hiragana characters, Numbers and Alphabets.
-  var chars = "ארקשדגכעינהבסזטוןםפףךלחיענמצתץ1234567890「平」とは平凡な、やさしいという意で、当時普通に使用する文字体系であったことを意味する。 漢字は書簡文や重要な文章などを書く場合に用いる公的な文字であるのに対して、 平仮名は漢字の知識に乏しい人々などが用いる私的な性格のものであったASDFGHJKLMNBVCXZQWERTYUIOP".split(
+  var chars = "ארקשדגכעינהבסזטוןםפףךלחיענמצתץ1234567890「平」とは平凡な、やさしいという意で、当時普通に使用する文字体系であったことを意味するなどを書く場合に用いる公的な文字であるのに対して、 平仮名は漢字の知識に乏しい人々などが用いる私的な性格のものであったASDFGHJKLMNBVCXZQWERTYUIOP".split(
     ""
   );
 
@@ -38,13 +38,13 @@
     context.fillRect(0, 0, canvas.width, canvas.height);
 
     //Set the previous line to neon.
-    context.fillStyle = "#fdd400";
+    context.fillStyle = "#14ffff";
     for (var i = 0; i < drops.length; i++) {
       context.fillText(text[i], i * font_size, drops[i] * font_size);
     }
 
     // Generate new characters.
-    context.fillStyle = "#01ffff";
+    context.fillStyle = "#6666ff";
     for (var i = 0; i < drops.length; i++) {
       drops[i]++;
       
