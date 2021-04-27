@@ -33,7 +33,7 @@
 
   function draw() {
     // Black background with 0.25 opacity to show the trail.
-    context.font = font_size + "px 'Consolas', 'Lucida Console'";
+    context.font = font_size + "px 'Consolas', 'Josefin Sans'";
     context.fillStyle = "rgba(0, 0, 0, 0.025)";
     context.fillRect(0, 0, canvas.width, canvas.height);
 
@@ -60,5 +60,5 @@
     }
   }
 
-  setInterval(draw, 75);
+  setInterval(draw, 77);
 
