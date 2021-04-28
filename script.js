@@ -3,7 +3,7 @@
     context = canvas.getContext("2d"),
     drops = [],
     text = [],
-    font_size = 12;
+    font_size = 18;
 
   canvas.height = window.innerHeight;
   canvas.width = window.innerWidth / 1.2;
@@ -15,7 +15,7 @@
     context = canvas.getContext("2d"),
     drops = [],
     text = [],
-    font_size = 12;
+    font_size = 18;
 
   canvas.height = window.innerHeight;
   canvas.width = window.innerWidth / 1.2;
