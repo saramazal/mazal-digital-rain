@@ -1,5 +1,10 @@
-# mazal-digital-rain
-![mazal-digital-rain](https://github.com/saramazal/mazal-digital-rain/blob/main/mazal-digital-rain.png)
+# mazal-digital-rain branches:
+
+* ![main](https://github.com/saramazal/mazal-digital-rain/blob/main/digital-rain-yellow.png)
+* ![digital-rain-blue](https://github.com/saramazal/mazal-digital-rain/blob/main/digital-rain-blue.png)
+* ![digital-rain-pink](https://github.com/saramazal/mazal-digital-rain/blob/main/digital-rain-pink.png)
+* [digital-rain-green](https://github.com/saramazal/mazal-digital-rain/blob/main/digital-rain-green.png)
+
 
 ## Inspirations
 * [User:Jahobr/Art](https://commons.wikimedia.org/wiki/User:Jahobr/Art)
