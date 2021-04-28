@@ -60,5 +60,5 @@
     }
   }
 
-  setInterval(draw, 18);
+  setInterval(draw, 34);
 
