@@ -3,7 +3,7 @@
     context = canvas.getContext("2d"),
     drops = [],
     text = [],
-    font_size = 18;
+    font_size = 12;
 
   canvas.height = window.innerHeight;
   canvas.width = window.innerWidth / 1.2;
@@ -15,7 +15,7 @@
     context = canvas.getContext("2d"),
     drops = [],
     text = [],
-    font_size = 18;
+    font_size = 12;
 
   canvas.height = window.innerHeight;
   canvas.width = window.innerWidth / 1.2;
@@ -32,9 +32,9 @@
   for (var i = 0; i < columns; i++) drops[i] = Math.random() * 50 - 50;
 
   function draw() {
-    // Background with 0.2 opacity.
-    context.font = font_size + "px 'Consolas', 'Josefin Sans'";
-    context.fillStyle = "rgba(0, 0, 0, 0.02)";
+    // Background with 0.1 opacity.
+    context.font = font_size + "px 'Sawarabi Mincho', 'Roboto Mono'";
+    context.fillStyle = "rgba(0, 0, 0, 0.1)";
     context.fillRect(0, 0, canvas.width, canvas.height);
 
     //Set the previous line to neon.
@@ -56,9 +56,9 @@
 
       // Sending the drop to the top randomly, after it has crossed the screen.
       if (drops[i] * font_size > canvas.height)
-        drops[i] = Math.random() * 100 - 100;
+        drops[i] = Math.random() * 77 - 77;
     }
   }
 
-  setInterval(draw, 77);
+  setInterval(draw, 43);
 
