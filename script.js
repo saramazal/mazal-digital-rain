@@ -1,16 +1,3 @@
-
-  var canvas = document.getElementById("canvas"),
-    context = canvas.getContext("2d"),
-    drops = [],
-    text = [],
-    font_size = 18;
-
-  canvas.height = window.innerHeight;
-  canvas.width = window.innerWidth / 1.2;
-  columns = canvas.width / font_size;
-
-  context.translate(canvas.width, 0);
-  context.scale(-1, 1);
   var canvas = document.getElementById("canvas"),
     context = canvas.getContext("2d"),
     drops = [],
