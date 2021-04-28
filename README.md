@@ -3,7 +3,7 @@
 * ![main](https://github.com/saramazal/mazal-digital-rain/blob/main/digital-rain-yellow.png)
 * ![digital-rain-blue](https://github.com/saramazal/mazal-digital-rain/blob/main/digital-rain-blue.png)
 * ![digital-rain-pink](https://github.com/saramazal/mazal-digital-rain/blob/main/digital-rain-pink.png)
-* [digital-rain-green](https://github.com/saramazal/mazal-digital-rain/blob/main/digital-rain-green.png)
+* ![digital-rain-green](https://github.com/saramazal/mazal-digital-rain/blob/main/digital-rain-green.png)
 
 
 ## Inspirations
