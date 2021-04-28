@@ -38,13 +38,13 @@
     context.fillRect(0, 0, canvas.width, canvas.height);
 
     //Set the previous line to neon.
-    context.fillStyle = "#14ffff";
+    context.fillStyle = "#00ffff";
     for (var i = 0; i < drops.length; i++) {
       context.fillText(text[i], i * font_size, drops[i] * font_size);
     }
 
     // Generate new characters.
-    context.fillStyle = "#6666ff";
+    context.fillStyle = "#c4ffff";
     for (var i = 0; i < drops.length; i++) {
       drops[i]++;
       
