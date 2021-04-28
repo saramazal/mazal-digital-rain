@@ -4,7 +4,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-image: linear-gradient(120deg, #89f7fe 0%, #66a6ff 100%);
+  background: #000;
   font-family: "Josefin Sans", sans-serif;
 }
 
