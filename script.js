@@ -32,19 +32,19 @@
   for (var i = 0; i < columns; i++) drops[i] = Math.random() * 50 - 50;
 
   function draw() {
-    // Background with 0.2 opacity.
+    // Background with 0.25 opacity.
     context.font = font_size + "px 'Consolas', 'Josefin Sans'";
-    context.fillStyle = "rgba(0, 0, 0, 0.02)";
+    context.fillStyle = "rgba(0, 0, 0, 0.025)";
     context.fillRect(0, 0, canvas.width, canvas.height);
 
     //Set the previous line to neon.
-    context.fillStyle = "#fdd400";
+    context.fillStyle = "#f535aa";
     for (var i = 0; i < drops.length; i++) {
       context.fillText(text[i], i * font_size, drops[i] * font_size);
     }
 
     // Generate new characters.
-    context.fillStyle = "#01ffff";
+    context.fillStyle = "#FFCBFF";
     for (var i = 0; i < drops.length; i++) {
       drops[i]++;
       
