@@ -7,7 +7,6 @@ https://user-images.githubusercontent.com/32996161/117150349-bbbd3f00-adc0-11eb-
 * ![digital-rain-pink](https://github.com/saramazal/mazal-digital-rain/blob/main/digital-rain-pink.png)
 * ![digital-rain-green](https://github.com/saramazal/mazal-digital-rain/blob/main/digital-rain-green.png)
 
-
 ## Inspirations
 * [User:Jahobr/Art](https://commons.wikimedia.org/wiki/User:Jahobr/Art)
 * [Code Pen](https://codepen.io/search/pens?q=digital+rain)
